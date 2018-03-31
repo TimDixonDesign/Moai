@@ -58,7 +58,7 @@ header {
 	background-color: #d7d2c6;
 	margin-top: 0px;
 	padding: 1em;
-	background-image: url("/images/moai-banner.jpg");
+	background-image: url("images/moai-banner.jpg");
 	background-size: cover;
 	background-position: center;
 }
